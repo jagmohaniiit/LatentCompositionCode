@@ -8,3 +8,5 @@ To generate the results use the following steps:
 
 3) Execute generateGMAPMetric to generate GMAP (Multiple Probe Attempts), GMAP (Multiple FRS and Multiple Probe Attempts) and GMAP. The regions are according to the 
 paper (https://ieeexplore.ieee.org/document/10078862).
+
+To get the dataset corresponding to this paper, please contact Prof. Raghavendra Ramachandra (raghavendra.ramachandra@ntnu.no) using your official email-id.
